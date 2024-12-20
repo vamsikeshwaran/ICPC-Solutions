@@ -16,8 +16,8 @@ One thing that we know for sure is that there can be no negative values in the o
 Here there is a creature to which you can ask a maximum of 5 questions. For each of the 5 questions asked the creature would provide an answer out of which one might be incorrect or a lie.
 
 ## Code Snippet
+**Result**:
 ```markdown
-```cpp
 #include <iostream>
 using namespace std;
 int main()

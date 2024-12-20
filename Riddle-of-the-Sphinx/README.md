@@ -3,3 +3,6 @@
 
 ### Problem
 ![Code Diagram](problem.png)
+
+### Sample Test Case
+![Code Diagram](sampletestcase.png)
